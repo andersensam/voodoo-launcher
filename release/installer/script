@@ -1,0 +1,40 @@
+#!/bin/sh
+
+sleep 2
+
+cd ..
+
+cd Resources
+
+echo "Installing Files"
+
+sleep 2
+
+cp vd_startup /usr/bin
+
+cp -prf VoodooLoader.app /Applications
+
+cd /Applications/VoodooLoader.app/Contents/Resources
+
+echo "Setting Permissions"
+
+sleep 2
+
+chown -R root:wheel getUID
+
+chown -R root:wheel KextLoader_
+
+chmod 4775 getUID
+
+chmod 4775 KextLoader_
+
+cd /usr/bin
+
+chmod +x vd_startup
+
+echo "Setting Startup Item"
+
+sleep 2
+
+echo "Install Complete!"
+

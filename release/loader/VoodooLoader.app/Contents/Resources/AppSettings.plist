@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppPathAsFirstArg</key>
+	<false/>
+	<key>Creator</key>
+	<string>Platypus-4.4</string>
+	<key>Droppable</key>
+	<false/>
+	<key>InterpreterParams</key>
+	<array/>
+	<key>OutputType</key>
+	<string>Progress Bar</string>
+	<key>RemainRunningAfterCompletion</key>
+	<true/>
+	<key>RequiresAdminPrivileges</key>
+	<false/>
+	<key>ScriptInterpreter</key>
+	<string>/bin/sh</string>
+	<key>Secure</key>
+	<true/>
+	<key>TextBackground</key>
+	<string>#ffffff</string>
+	<key>TextEncoding</key>
+	<integer>4</integer>
+	<key>TextFont</key>
+	<string>Monaco</string>
+	<key>TextForeground</key>
+	<string>#000000</string>
+	<key>TextSettings</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUICwxUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABogkKVSRudWxsTxCGIyEvYmluL3NoCgpraWxsYWxsIFRlcm1pbmFsCgpl
+	Y2hvICJDaGFuZ2luZyBEaXJlY3RvcnkiCgpjZCAuLgoKY2QgUmVzb3VyY2VzCgouL2dl
+	dFVJRAoKc2xlZXAgNwoKa2lsbGFsbCBUZXJtaW5hbApraWxsYWxsIFZvb2Rvb0xvYWRl
+	cgoSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcggRFh8oMjU6PD9FztMAAAAAAAABAQAAAAAA
+	AAANAAAAAAAAAAAAAAAAAAAA5Q==
+	</data>
+	<key>TextSize</key>
+	<real>10</real>
+</dict>
+</plist>

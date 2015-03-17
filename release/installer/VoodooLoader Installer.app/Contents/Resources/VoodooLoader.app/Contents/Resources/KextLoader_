@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Changing to Directory"
+
+echo "Setting Permissions"
+
+chown -R root:wheel VoodooHDA.kext/
+
+chmod go-w VoodooHDA.kext
+
+echo "Injecting Kext"
+
+kextload -v 1 VoodooHDA.kext
+
+exit 0
+
+

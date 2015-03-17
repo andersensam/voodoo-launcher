@@ -1,0 +1,4 @@
+CFBundleName = "VoodooLoader Installer";
+CFBundleShortVersionString = "1.2b";
+CFBundleGetInfoString = "VoodooLoader Installer version 1.2b Copyright 2012 AndersenTech";
+NSHumanReadableCopyright = "Copyright 2012 AndersenTech.";
